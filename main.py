@@ -1,3 +1,5 @@
+# https://tproger.ru/translations/python-gui-pyqt/
+
 import serial
 
 connected = False
